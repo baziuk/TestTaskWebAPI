@@ -33,7 +33,7 @@ namespace TestTaskWebAPI.Managers
 
         }
 
-        public int GetNumberOfFullDecks(IEnumerable<string> inputCards)
+        public int GetNumberOfFullDecks(IEnumerable<string> inputCards) 
         {
 
             if (inputCards == null)
