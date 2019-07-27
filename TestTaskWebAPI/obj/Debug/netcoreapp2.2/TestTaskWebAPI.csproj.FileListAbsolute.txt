@@ -1,0 +1,14 @@
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\bin\Debug\netcoreapp2.2\TestTaskWebAPI.deps.json
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\bin\Debug\netcoreapp2.2\TestTaskWebAPI.runtimeconfig.json
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\bin\Debug\netcoreapp2.2\TestTaskWebAPI.runtimeconfig.dev.json
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\bin\Debug\netcoreapp2.2\TestTaskWebAPI.dll
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\bin\Debug\netcoreapp2.2\TestTaskWebAPI.pdb
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.csprojAssemblyReference.cache
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.RazorAssemblyInfo.cache
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.RazorAssemblyInfo.cs
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.AssemblyInfoInputs.cache
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.AssemblyInfo.cs
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.dll
+C:\Users\bazuk_oleh\source\repos\Test\TestTaskWebAPI\TestTaskWebAPI\obj\Debug\netcoreapp2.2\TestTaskWebAPI.pdb

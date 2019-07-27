@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bazuk_oleh\\source\\repos\\Test\\TestTaskWebAPI\\TestTaskWebAPI\\TestTaskWebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bazuk_oleh\\source\\repos\\Test\\TestTaskWebAPI\\TestTaskWebAPI\\TestTaskWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bazuk_oleh\\source\\repos\\Test\\TestTaskWebAPI\\TestTaskWebAPI\\TestTaskWebAPI.csproj",
+        "projectName": "TestTaskWebAPI",
+        "projectPath": "C:\\Users\\bazuk_oleh\\source\\repos\\Test\\TestTaskWebAPI\\TestTaskWebAPI\\TestTaskWebAPI.csproj",
+        "packagesPath": "C:\\Users\\bazuk_oleh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bazuk_oleh\\source\\repos\\Test\\TestTaskWebAPI\\TestTaskWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bazuk_oleh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
