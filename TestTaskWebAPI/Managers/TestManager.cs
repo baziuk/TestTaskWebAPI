@@ -33,7 +33,42 @@ namespace TestTaskWebAPI.Managers
 
         }
 
-        public int GetNumberOfFullDecks(IEnumerable<string> inputCards) 
+     
+        public int GetNumberOfFullDecks(IEnumerable<string> inputCards)
+        {
+
+            if (inputCards == null)
+                throw new ArgumentException($@"Input parameter cannot be null");
+
+            var ranks = "2,3,4,5,6,7,8,9,T,J,Q,K,A".Split(",");
+            var suits = "S,C,H,D".Split(",");
+
+            var decks = (from rank in ranks
+                        from suit in suits
+                        select rank + suit).ToArray();
+
+            var minСount = inputCards.Where(x => x == decks[0]).Count();
+
+            if (minСount == 0)
+                return 0;
+
+            int currentCount;
+
+            for (int i = 1; i < decks.Length; i++)
+            {
+                currentCount = inputCards.Where(x => x == decks[i]).Count();
+
+                if (currentCount == 0)
+                    return 0;
+
+                if (currentCount < minСount)
+                    minСount = currentCount;
+
+            }
+            return minСount;
+        }
+
+        public int GetNumberOfFullDecks2(IEnumerable<string> inputCards)
         {
 
             if (inputCards == null)

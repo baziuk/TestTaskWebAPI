@@ -29,6 +29,11 @@ namespace TestTaskWebAPI.Controllers
         {          
             return _testManager.GetNumberOfFullDecks(inputCards);
         }
-      
+
+        [HttpPost]
+        public ActionResult<int> GetNumberOfFullDecks2([FromBody]IEnumerable<string> inputCards)
+        {
+            return _testManager.GetNumberOfFullDecks2(inputCards);
+        }
     }
 }

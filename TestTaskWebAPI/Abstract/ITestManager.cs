@@ -10,5 +10,7 @@ namespace TestTaskWebAPI.Abstract
         List<int> GetChange(decimal M, decimal P);
 
         int GetNumberOfFullDecks(IEnumerable<string> inputCards);
+
+        int GetNumberOfFullDecks2(IEnumerable<string> inputCards);
     }
 }
